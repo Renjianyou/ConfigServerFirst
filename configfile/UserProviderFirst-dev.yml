@@ -14,9 +14,6 @@ spring:
     show-sql: true
   application:
     name: UserProvider
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka
+
 version: UserProviderFirst-update
   
