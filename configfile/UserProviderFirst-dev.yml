@@ -13,7 +13,7 @@ spring:
       ddl-auto: update
     show-sql: true
   application:
-    name: UserProviderFirst
+    name: UserProvider
 
 version: UserProviderFirst-update
   

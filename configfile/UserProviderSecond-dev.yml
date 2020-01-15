@@ -1,5 +1,5 @@
 server:
-  port: 8003
+  port: 8002
 spring:
   datasource:
     url: jdbc:mysql://db1:3306/springcloud?serverTimezone=UTC
@@ -15,5 +15,5 @@ spring:
   application:
     name: UserProvider
 
-version: UserProviderFirst-update
+version: UserProviderSecond-update
   
